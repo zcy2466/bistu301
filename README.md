@@ -16,7 +16,7 @@ https://github.com/zcy2466/bistu301
 
 ### python2.7
 
-![](D:\bistu301\bistu301\image\python.jpg)
+![](https://github.com/zcy2466/bistu301/blob/main/image/python.jpg)
 
 ### git
 
