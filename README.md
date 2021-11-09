@@ -16,6 +16,8 @@ https://github.com/zcy2466/bistu301
 
 ### python2.7
 
+![](D:\bistu301\bistu301\image\python.jpg)
+
 ### git
 
 ### depot_tools
