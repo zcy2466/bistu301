@@ -16,7 +16,7 @@ https://github.com/zcy2466/bistu301
 
 ### python2.7
 
-https://www.python.org/downloads/release/python-2718/
+[python官网：]: https://www.python.org/downloads/release/python-2718/
 
 ![](https://github.com/zcy2466/bistu301/blob/main/image/python.jpg)
 
@@ -28,9 +28,9 @@ https://www.python.org/downloads/release/python-2718/
 
 depot_tools是个python项目的工具包，用于仓库的管理
 
-### visual studio 2019或以上版本
+### visual studio 2019/2022
 
-安装时需要勾选windows 10 sdk
+需要其中的windows 10 sdk用于项目编译
 
 ## 二、下载skia
 
