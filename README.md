@@ -132,3 +132,7 @@ bin\gn.exe gen out/vs2019x86d --sln="skia" --ide="vs2019"
 
 ![](https://github.com/zcy2466/bistu301/blob/main/image/hellowrold.png)
 
+## 三、文字设计
+
+......
+
