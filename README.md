@@ -130,7 +130,5 @@ bin\gn.exe gen out/vs2019x86d --sln="skia" --ide="vs2019"
 
 打开hellowrold运行编译成功
 
-```
-https://github.com/zcy2466/bistu301/blob/main/image/hellowrold.png
-```
+![](https://github.com/zcy2466/bistu301/blob/main/image/hellowrold.png)
 
