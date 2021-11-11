@@ -25,9 +25,8 @@ python官网:
 
 https://www.python.org/downloads/release/python-2718/ 
 
-需要添加到环境变量
-=======
-[python官网：]: https://www.python.org/downloads/release/python-2718/
+需要添加到环境变量中
+
 ![](https://github.com/zcy2466/bistu301/blob/main/image/python.jpg)
 
 ### git
@@ -88,13 +87,13 @@ git clone https://skia.googlesource.com/skia.git
 github镜像仓库：
 
 ```
-
+git clone https://github.com/google/skia.git
 ```
 
 gitee镜像仓库:
 
 ```
-
+git clone https://gitee.com/de-user/skia.git
 ```
 
 ### 编译skia
@@ -107,7 +106,7 @@ python2 tools/git-sync-deps
 
 即可补全编译缺少的第三方库
 
-//图片
+![](https://github.com/zcy2466/bistu301/blob/main/image/python%E7%BC%96%E8%AF%91.jpg.png)
 
 由于官网提供的编译方法各种bug，这里使用vs对项目进行编译
 
@@ -117,7 +116,7 @@ bin\gn.exe gen out/vs2019x86d --sln="skia" --ide="vs2019"
 
 提示done则编译成功
 
-//图片
+![](https://github.com/zcy2466/bistu301/blob/main/image/vs%E6%8C%87%E4%BB%A4.png)
 
 编译成功
 
@@ -125,6 +124,13 @@ bin\gn.exe gen out/vs2019x86d --sln="skia" --ide="vs2019"
 
 其中会有skia.sln文件
 
+![](https://github.com/zcy2466/bistu301/blob/main/image/sln.png)
+
 使用vs打开点击生成即可编译
 
 打开hellowrold运行编译成功
+
+```
+https://github.com/zcy2466/bistu301/blob/main/image/hellowrold.png
+```
+
